@@ -9,10 +9,8 @@ Le jeu contient entre autre :
 - Des maps customs
 - Et bien d'autres surprises !
 
-![screen](/screenshoots/1.png)
 
-
-![screen](/screenshoots/2.png)
+![screen](/screenshoots/4.png)
 
 
 ![screen](/screenshoots/3.png)
