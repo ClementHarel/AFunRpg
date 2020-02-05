@@ -10,3 +10,9 @@ Le jeu contient entre autre :
 - Et bien d'autres surprises !
 
 ![screen](/screenshoots/1.png)
+
+
+![screen](/screenshoots/2.png)
+
+
+![screen](/screenshoots/3.png)
