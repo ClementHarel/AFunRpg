@@ -6,7 +6,7 @@ Le jeu contient entre autre :
 - Plusieurs personnages pouvant gagner des statistiques en montant de niveau
 - Une boutique dans laquelle on peut dépenser son or contre de meilleures armes et objets.
 - Deux villes dans lesquelles on peut interagir avec des personnages secondaire et même réaliser des quêtes annexes.
-- Des maps customs
+- Des cartes faites avec amour.
 - Et bien d'autres surprises !
 
 
